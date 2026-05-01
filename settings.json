@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mropps.aternos.me",
+    "ip": "mropps.aternos.me:44516",
     "port": 44516,
     "version": "",
     "try-creative": false
